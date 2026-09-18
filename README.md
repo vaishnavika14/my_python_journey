@@ -1,6 +1,4 @@
-# My python journey
 
- 
 # 🐍 My Python Journey
 
 I am learning Python from scratch using a practical, hands-on approach.
